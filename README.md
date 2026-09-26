@@ -65,10 +65,7 @@ I'm **Zakin**, a 20-year-old backend-leaning full-stack developer who's expandin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zakinabdul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakinabdul&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zakinabdul&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zakinabdul&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
 
